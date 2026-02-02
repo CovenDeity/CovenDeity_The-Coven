@@ -11,15 +11,18 @@ This repository contains resources and documentation for the Discord server "The
 
 ---
 
+
 ## Key Traits
 - **Rules Name:** Black Laws
 - **Rules File:** [black-laws.md](black-laws.md)
 - **Server Avatar:** ![The Coven Avatar](The-Coven_Avatar.png)
 - **Rules Image:** ![Black Laws](The-Coven_Rules.png)
 - **Rules Category:** SHADOW GOVERNENCE
+- **General Population Category:** GATHERING CIRCLE
+- **Music Channel:** Mystic Rhythms
 - **Private Council Category:** THE ORDER
 - **Moderators:** The Council
-- **Users:** Disciples
+- **Users:** Anointed
 - **Bots Role:** Familiars
 
 ---

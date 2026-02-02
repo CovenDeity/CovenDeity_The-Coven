@@ -32,9 +32,8 @@ If you are found to be under 18, you will be cast out until your time has come.
 
 ### :new_moon: Channel Sanctuaries
 * **#the-altar:** For general chatter and getting to know the flock.
-* **#grimoires:** Share your research, spells, and historical texts.
 * **#visions:** Post your art, photography, and aesthetic inspirations.
-* **#the-void:** For venting and heavy discussions (keep it civil).
+* **#Mystic Rhythms:** Ethereal sounds.
 
 > **"As above, so below. As within, so without."**
 > By remaining in this server, you bind yourself to these laws.
