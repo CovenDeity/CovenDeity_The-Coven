@@ -37,3 +37,7 @@ If you are found to be under 18, you will be cast out until your time has come.
 
 > **"As above, so below. As within, so without."**
 > By remaining in this server, you bind yourself to these laws.
+
+https://discord.gg/gGCArENq9S
+
+https://github.com/CovenDeity/CovenDeity_The-Coven
