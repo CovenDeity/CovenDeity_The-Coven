@@ -12,7 +12,6 @@ This repository contains resources and documentation for the Discord server "The
 ---
 
 
-## Key Traits
 - **Rules Name:** Black Laws
 - **Rules File:** [black-laws.md](black-laws.md)
 - **Server Avatar:** ![The Coven Avatar](The-Coven_Avatar.png)
@@ -25,6 +24,11 @@ This repository contains resources and documentation for the Discord server "The
 - **Users:** Anointed
 - **Bots Role:** Familiars
 
+## Main Public Channels
+- **#the-altar:** For general chatter and getting to know the flock.
+- **#visions:** Post your art, photography, and aesthetic inspirations.
+- **#Mystic Rhythms:** Ethereal sounds (music channel).
+
 ---
 
 ## Getting Started
@@ -36,7 +40,7 @@ This repository contains resources and documentation for the Discord server "The
    - After both verifications, users are placed in the `#the-purgatory` channel (the waiting room) until a moderator (**Council** member) reviews them.
    - If approved by The Council, the user is assigned the **Annointed** role and granted full entry.
 3. **Join the Conversation:**
-   - Participate in channels organized under the **SHADOW GOVERNENCE** category.
+   - Participate in channels organized under the **GATHERING CIRCLE** category.
 4. **Respect The Council:**
    - Moderators, known as **The Council**, enforce the Black Laws and maintain order.
    - The Council's private discussions and decisions happen in the **THE ORDER** category.
