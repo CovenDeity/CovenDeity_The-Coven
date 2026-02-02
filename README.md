@@ -58,6 +58,7 @@ This repository contains resources and documentation for the Discord server "The
 ## Files in This Repository
 - `README.md` — Project overview and documentation
 - `black-laws.md` — The complete text of the Black Laws (server rules)
+- `visions-channel-message.md` — Message for #visions channel rules and guidelines
 - `The-Coven_Avatar.png` — Server avatar image
 - `The-Coven_Rules.png` — Visual representation of the Black Laws
 - `Coven-Deity_Avatar.png` — Avatar image for Coven Deity (server owner)
