@@ -30,7 +30,6 @@ This repository contains resources and documentation for the Discord server "The
 ## Getting Started
 1. **Read the Black Laws:**
    - All users must read and follow the [Black Laws](black-laws.md).
-   - The visual version is available in ![The-Coven_Rules.png](The-Coven_Rules.png).
 2. **Verification & Roles:**
    - Upon joining, users must pass **Wick** verification to receive the **Disciples** role.
    - Next, users must pass **Double Counter** verification to receive the **Awakened** role.
