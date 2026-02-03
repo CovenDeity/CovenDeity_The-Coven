@@ -54,15 +54,6 @@ This repository contains resources and documentation for the Discord server "The
 - **Wick:** Advanced security bot for anti-raid, anti-alt, and server protection. Wick helps keep The Coven safe from unwanted accounts and raids.
 - **Double Counter:** Verification bot that uses device fingerprinting to block alt accounts and ensure new members are legitimate. Double Counter adds an extra layer of security for Disciples joining The Coven.
 
-
-- `README.md` — Project overview and documentation
-- `black-laws.md` — The complete text of the Black Laws (server rules)
-- `visions-channel-message.md` — Message for #visions channel rules and guidelines
-- `the-purgatory_channel-message.md` — Message for #the-purgatory channel instructions and guidance
-- `copy_to_CovenDeity_The-Coven.sh` — Script to copy files to the CovenDeity_The-Coven repository
-- `The-Coven_Avatar.png` — Server avatar image
-- `The-Coven_Rules.png` — Visual representation of the Black Laws
-- `Coven-Deity_Avatar.png` — Avatar image for Coven Deity (server owner)
 ## Files in This Repository
 - `README.md` — Project overview and documentation
 - `black-laws.md` — The complete text of the Black Laws (server rules)
