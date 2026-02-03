@@ -59,6 +59,8 @@ This repository contains resources and documentation for the Discord server "The
 - `README.md` — Project overview and documentation
 - `black-laws.md` — The complete text of the Black Laws (server rules)
 - `visions-channel-message.md` — Message for #visions channel rules and guidelines
+- `the-purgatory_channel-message.md` — Message for #the-purgatory channel instructions and guidance
+- `copy_to_CovenDeity_The-Coven.sh` — Script to copy files to the CovenDeity_The-Coven repository
 - `The-Coven_Avatar.png` — Server avatar image
 - `The-Coven_Rules.png` — Visual representation of the Black Laws
 - `Coven-Deity_Avatar.png` — Avatar image for Coven Deity (server owner)
