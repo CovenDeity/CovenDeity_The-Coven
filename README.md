@@ -11,9 +11,6 @@ Welcome to **The Coven** — a unique Discord community guided by the mysterious
 ## Overview
 This repository contains resources and documentation for the Discord server "The Coven." It is designed to help new and existing members understand the server's structure, rules, and culture.
 - **Rules Name:** Black Laws
-- **Rules File:** [black-laws.md](black-laws.md)
-- **Server Avatar:** ![The Coven Avatar](The-Coven_Avatar.png)
-- **Rules Image:** ![Black Laws](The-Coven_Rules.png)
 - **Rules Category:** SHADOW GOVERNENCE
 - **General Population Category:** GATHERING CIRCLE
 - **Music Channel:** Mystic Rhythms
@@ -21,6 +18,9 @@ This repository contains resources and documentation for the Discord server "The
 - **Moderators:** The Council
 - **Users:** Anointed
 - **Bots Role:** Familiars
+- **Rules File:** [black-laws.md](black-laws.md)
+- **Server Avatar:** ![The Coven Avatar](The-Coven_Avatar.png)
+- **Rules Image:** ![Black Laws](The-Coven_Rules.png)
 
 ---
 
