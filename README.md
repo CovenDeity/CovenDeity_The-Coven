@@ -71,6 +71,7 @@ This repository contains resources and documentation for the Discord server "The
 - `The-Coven_Avatar.png` — Server avatar image
 - `The-Coven_Rules.png` — Visual representation of the Black Laws
 - `Coven-Deity_Avatar.png` — Avatar image for Coven Deity (server owner)
+- `Coven-Deity_Avatar_Animated.gif` — Animated avatar image for Coven Deity (server owner)
 
 ---
 
