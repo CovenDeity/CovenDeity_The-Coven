@@ -24,10 +24,12 @@ This repository contains resources and documentation for the Discord server "The
 
 ---
 
+
 ## Main Public Channels
 - **#the-altar:** For general chatter and getting to know the flock.
 - **#visions:** Post your art, photography, and aesthetic inspirations.
 - **#Mystic Rhythms:** Ethereal sounds (music channel).
+- **#hexed-hoard:** The place for crypto tips, airdrops, and rain events. Use this channel for tipping, giveaways, and all things crypto—powered by familiars (bots) and the community's generosity.
 
 ---
 
@@ -55,12 +57,12 @@ This repository contains resources and documentation for the Discord server "The
 
 ---
 
-## Files in This Repository
 - `README.md` — Project overview and documentation
 - `black-laws.md` — The complete text of the Black Laws (server rules)
 - `visions-channel-message.md` — Message for #visions channel rules and guidelines
 - `the-purgatory_channel-message.md` — Message for #the-purgatory channel instructions and guidance
 - `the-altar_channel-message.md` — Message for #the-altar channel welcome and guidelines
+- `hexed-hoard_channel-message.md` — Message for #hexed-hoard channel (crypto tips, airdrops, and rain events)
 - `verify-here_channel-message.md` — Message for #verify-here channel instructions
 - `copy_to_CovenDeity_The-Coven.sh` — Script to copy files to the CovenDeity_The-Coven repository
 - `The-Coven_Avatar.png` — Server avatar image
