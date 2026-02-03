@@ -1,17 +1,15 @@
 # The Coven Discord Server
-
 Welcome to **The Coven** — a unique Discord community guided by the mysterious and powerful **Black Laws**.
 
+---
 
 ## Ownership
 **The Coven** Discord server is owned by **Coven Deity** (covendeity), Discord ID: `1467887943166464155`.
 
-## Overview
-This repository contains resources and documentation for the Discord server "The Coven." It is designed to help new and existing members understand the server's structure, rules, and culture.
-
 ---
 
-
+## Overview
+This repository contains resources and documentation for the Discord server "The Coven." It is designed to help new and existing members understand the server's structure, rules, and culture.
 - **Rules Name:** Black Laws
 - **Rules File:** [black-laws.md](black-laws.md)
 - **Server Avatar:** ![The Coven Avatar](The-Coven_Avatar.png)
@@ -23,6 +21,8 @@ This repository contains resources and documentation for the Discord server "The
 - **Moderators:** The Council
 - **Users:** Anointed
 - **Bots Role:** Familiars
+
+---
 
 ## Main Public Channels
 - **#the-altar:** For general chatter and getting to know the flock.
@@ -48,7 +48,6 @@ This repository contains resources and documentation for the Discord server "The
    - Bots in the server hold the **Familiars** role and help protect The Coven from alt and bot accounts.
 
 ---
-
 
 ## Administration Bots
 - **Wick:** Advanced security bot for anti-raid, anti-alt, and server protection. Wick helps keep The Coven safe from unwanted accounts and raids.
