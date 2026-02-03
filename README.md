@@ -24,8 +24,6 @@ This repository contains resources and documentation for the Discord server "The
 
 ---
 
-
-
 ## Main Public Channels
 - **#the-altar:** For general chatter and getting to know the flock.
 - **#visions:** Post your art, photography, and aesthetic inspirations.
