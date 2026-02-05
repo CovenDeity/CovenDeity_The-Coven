@@ -41,3 +41,5 @@ If you are found to be under 18, you will be cast out until your time has come.
 https://discord.gg/gGCArENq9S
 
 https://github.com/CovenDeity/CovenDeity_The-Coven
+
+https://www.youtube.com/@CovenDeity
