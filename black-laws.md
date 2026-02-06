@@ -42,4 +42,4 @@ https://discord.gg/gGCArENq9S
 
 https://github.com/CovenDeity/CovenDeity_The-Coven
 
-https://www.youtube.com/@CovenDeity
+https://www.youtube.com/@CovenDeity/playlists
