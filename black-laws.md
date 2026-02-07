@@ -31,9 +31,11 @@ This coven is strictly for those who have reached the age of majority.
 If you are found to be under 18, you will be cast out until your time has come.
 
 ### :new_moon: Channel Sanctuaries
-* **#the-altar:** For general chatter and getting to know the flock.
-* **#visions:** Post your art, photography, and aesthetic inspirations.
-* **#Mystic Rhythms:** Ethereal sounds.
+* **#the-altar:** General conversation, introductions, and getting to know your fellow Anointed.
+* **#visions:** Share your art, photography, and aesthetic inspirations. No chatting—creativity only.
+* **#Mystic Rhythms:** Ethereal sounds and music.
+* **#hexed-hoard:** Crypto tips, airdrops, and rain events. Tipping and giveaways.
+* **#cursed-exchange:** Crypto swaps and trading with swap bots and fellow members.
 
 > **"As above, so below. As within, so without."**
 > By remaining in this server, you bind yourself to these laws.
