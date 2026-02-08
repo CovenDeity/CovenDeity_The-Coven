@@ -9,6 +9,6 @@ This is the heart of The Coven — a sacred space for general conversation, intr
 
 > **Please keep discussions respectful and in line with the Black Laws.**
 
-For art, photography, and creative inspiration, please use the #visions channel. For music and ethereal sounds, visit #Mystic Rhythms.
+For art, photography, and creative inspiration, please use the <#1468021061869113355> channel. For music and ethereal sounds, visit <#1467889836202393814>.
 
 Let the circle be unbroken, and may your words bring warmth to the hearth!
